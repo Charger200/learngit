@@ -4,5 +4,7 @@ iiiiiiiiii-------
 
 ddddddd
 ssssss
+<<<<<<< HEAD
 
 test origin/dev2
+test git checjout -b dev origin/dev
